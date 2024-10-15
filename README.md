@@ -1,1 +1,3 @@
-# SCZ_PPS_Expansion_Model
+# Code for the paper "Reduced learning rate and E/I imbalance drive Peripersonal Space boundaries expansion in Schizophrenia"
+
+Description: This repository contains Python code used to build the neural network model described in the paper "Reduced learning rate and E/I imbalance drive Peripersonal Space boundaries expansion in Schizophrenia". Additional details, code and instructions for replication of the results are freely available upon request to the first author (Renato Paredes). Email: paredesrenato92@gmail.com
